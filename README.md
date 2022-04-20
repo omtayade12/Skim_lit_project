@@ -1,6 +1,6 @@
 # Skim_lit_project
 
-# https://share.streamlit.io/omtayade12/skim_lit_project/app.py
+## https://share.streamlit.io/omtayade12/skim_lit_project/main/app.py
 
 This project is the deployment project for streamlit developed with the help of TensorFlow NLP (Natural Language Processing)
 
